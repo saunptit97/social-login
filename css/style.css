@@ -1,0 +1,52 @@
+#login-social , #register-social{
+			float:right;
+		}
+        .content input{
+            width: 100%;
+            margin: 5px 0px 10px 0px;
+          
+            background: #fff;
+            background-clip: padding-box;
+            border: 1px solid #3399cc;
+            border-radius: 1px;
+            font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+            font-size: 14px;
+            height: 32px;
+            line-height: 1.42857143;
+            padding: 0 9px;
+            vertical-align: baseline;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .content button{
+            background: #3399cc;
+            color: #fff;
+            height:30px;
+            border: 0;
+            border-color: #3399cc;
+            padding: 0 17px;
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+        .modal-header{
+            background: #3399cc;
+            color: #fff;
+        }
+        .modal-header h4{
+            text-transform: uppercase;
+            font-size: 20px;
+        }
+        .modal-body{
+            padding: 20px;
+        }
+        .required{
+            color:red;
+        }
+        .block-title{
+            padding-bottom: 10px;
+            border-bottom: 1px #ddd solid;
+            margin-bottom: 10px;
+        }
+        .btn-danger{
+            background: #ac2925 !important;
+        }
